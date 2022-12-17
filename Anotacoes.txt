@@ -1,0 +1,11 @@
+Vídeo Aula
+https://www.youtube.com/watch?v=K5QaTfE5ylk
+Parei em: 1:04:00
+
+User: userAPI
+Pass: puY54VlYcTm0ixwJ
+
+String de conexão com o MongoDB
+mongodb+srv://userAPI:<password>@apicluster.zxqkai9.mongodb.net/?retryWrites=true&w=majority
+
+
